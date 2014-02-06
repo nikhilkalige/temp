@@ -1,5 +1,6 @@
 Title: product
 RENDER_MULTIPLE: Yes
+url: index2.html
 save_as: index2.html
 
 ##Agrinnovate

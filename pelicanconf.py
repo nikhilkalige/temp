@@ -40,6 +40,7 @@ PAGINATED_DIRECT_TEMPLATES = ['blog']
 DEFAULT_PAGINATION = 3
 TYPOGRIFY = True
 STATIC_PATHS = [
+    'images',
     'extras'
     ]
 EXTRA_PATH_METADATA = {

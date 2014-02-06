@@ -2,6 +2,7 @@ Title: product
 RENDER_MULTIPLE: Yes
 Template: main
 save_as: index.html
+Thumbnail: gsm.jpg
 
 ##Agrinnovate
 
