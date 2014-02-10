@@ -4,4 +4,4 @@ Template: main
 save_as: index.html
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, expedita veritatis eveniet ea dolorem quos nemo odit minima ipsum est cumque excepturi blanditiis eligendi repellat ducimus doloremque cum consequatur quia!
+At the start of July 2011, i joined [Geodesic Ltd](http://www.geodesic.com) a product based company. I have been working heresince then contributing to the development of Geoamida, the flagship product of Geodesic.

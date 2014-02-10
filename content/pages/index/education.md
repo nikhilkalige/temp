@@ -4,4 +4,4 @@ Template: main
 save_as: index.html
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, expedita veritatis eveniet ea dolorem quos nemo odit minima ipsum est cumque excepturi blanditiis eligendi repellat ducimus doloremque cum consequatur quia!
+Towards the end of August 2007, i began my under-graduation in Electronics and Communication stream at [BMS College of Engineering, Bangalore](http://bmsce.ac.in). After 4 long years of ardous work, i graduated with a Bachelor of Enggineering in 2011. 

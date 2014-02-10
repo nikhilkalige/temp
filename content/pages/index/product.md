@@ -2,10 +2,11 @@ Title: product
 RENDER_MULTIPLE: Yes
 Template: main
 save_as: index.html
-Thumbnail: gsm.jpg
 
 ##Agrinnovate
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, voluptatibus in soluta at vel maxime perspiciatis itaque laboriosam ratione neque odio iste necessitatibus corporis sapiente inventore tempora dolorum doloribus quidem.
+A device to remotely control and monitor the parameters of a 3-phase motor. Remote parameter logging and OTA programming capability to upgrade the system without manual intervention.
 
 View live at
+
+
